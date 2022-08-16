@@ -23,6 +23,10 @@ body {
     font-size: smaller;
 }
 
+.author-special {
+    text-decoration: underline;
+}
+
 .footer {
     font-size: smaller;
 }
