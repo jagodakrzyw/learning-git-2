@@ -26,3 +26,7 @@ body {
 .footer {
     font-size: smaller;
 }
+
+.footer-special {
+    font-style: italic;
+}
