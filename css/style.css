@@ -1,9 +1,20 @@
 body {
+    max-width: 400px;
     font-family: 'Radio Canada', sans-serif;
-    margin: 0;
+    margin: 0 auto;
     text-align: justify;
     background: white;
     color: black;
     font-size: 16px;
     line-height: 1.7;
 }
+
+.title {
+    margin-bottom: 0;
+}
+
+.author {
+    
+}
+
+.source {}
