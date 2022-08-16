@@ -7,6 +7,11 @@ body {
     color: black;
     font-size: 16px;
     line-height: 1.7;
+    padding: 40px;
+}
+
+.main {
+    padding: 12px 0;
 }
 
 .title {
@@ -20,5 +25,4 @@ body {
 
 .footer {
     font-size: smaller;
-    margin-top: 40px;
 }
